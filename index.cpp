@@ -1,3 +1,3 @@
 #include<iostream>
 
-#define new file
+#define new file ha
